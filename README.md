@@ -9,20 +9,6 @@ A complete machine learning project that demonstrates how to build, train, and d
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Model Architecture](#model-architecture)
-- [Screenshots](#screenshots)
-- [Learning Resources](#learning-resources)
-
----
 
 ## 🎯 Overview
 
